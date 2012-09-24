@@ -4,26 +4,12 @@
   <unicode hex="006E"/>
   <outline>
     <contour>
-      <point x="238" y="262" type="line" smooth="yes"/>
-      <point x="238" y="166"/>
-      <point x="225" y="134"/>
-      <point x="94" y="70" type="curve" smooth="yes"/>
-      <point x="73" y="62"/>
-      <point x="65" y="49"/>
-      <point x="65" y="39" type="curve" smooth="yes"/>
-      <point x="65" y="18"/>
-      <point x="78" y="0"/>
-      <point x="94" y="0" type="curve" smooth="yes"/>
-      <point x="556" y="0" type="line" smooth="yes"/>
-      <point x="572" y="0"/>
-      <point x="585" y="18"/>
-      <point x="585" y="39" type="curve" smooth="yes"/>
-      <point x="585" y="49"/>
-      <point x="577" y="62"/>
-      <point x="556" y="70" type="curve" smooth="yes"/>
-      <point x="425" y="134"/>
-      <point x="412" y="166"/>
-      <point x="412" y="262" type="curve" smooth="yes"/>
+      <point x="575" y="0"/>
+      <point x="575" y="36"/>
+      <point x="576" y="36" type="curve"/>
+      <point x="433" y="96"/>
+      <point x="412" y="147"/>
+      <point x="412" y="263" type="curve" smooth="yes"/>
       <point x="412" y="804" type="line"/>
       <point x="461" y="841"/>
       <point x="569" y="914"/>
@@ -32,25 +18,19 @@
       <point x="858" y="836"/>
       <point x="858" y="709" type="curve" smooth="yes"/>
       <point x="858" y="262" type="line" smooth="yes"/>
-      <point x="858" y="166"/>
-      <point x="845" y="134"/>
-      <point x="714" y="70" type="curve" smooth="yes"/>
-      <point x="693" y="62"/>
-      <point x="685" y="49"/>
+      <point x="858" y="151"/>
+      <point x="826" y="94"/>
       <point x="685" y="39" type="curve" smooth="yes"/>
-      <point x="685" y="18"/>
-      <point x="698" y="0"/>
-      <point x="714" y="0" type="curve" smooth="yes"/>
-      <point x="1176" y="0" type="line" smooth="yes"/>
-      <point x="1192" y="0"/>
-      <point x="1205" y="18"/>
-      <point x="1205" y="39" type="curve" smooth="yes"/>
-      <point x="1205" y="49"/>
-      <point x="1197" y="62"/>
-      <point x="1176" y="70" type="curve" smooth="yes"/>
-      <point x="1045" y="134"/>
-      <point x="1032" y="166"/>
-      <point x="1032" y="262" type="curve" smooth="yes"/>
+      <point x="683" y="38"/>
+      <point x="685" y="0"/>
+      <point x="685" y="0" type="curve" smooth="yes"/>
+      <point x="1196" y="0" type="line" smooth="yes"/>
+      <point x="1195" y="0"/>
+      <point x="1195" y="36"/>
+      <point x="1196" y="36" type="curve"/>
+      <point x="1053" y="96"/>
+      <point x="1032" y="147"/>
+      <point x="1032" y="263" type="curve" smooth="yes"/>
       <point x="1032" y="719" type="line" smooth="yes"/>
       <point x="1032" y="930"/>
       <point x="937" y="1059"/>
@@ -58,7 +38,6 @@
       <point x="571" y="1059"/>
       <point x="412" y="864"/>
       <point x="412" y="864" type="curve"/>
-      <point x="412" y="1026" type="line" smooth="yes"/>
       <point x="412" y="1033" type="line" smooth="yes"/>
       <point x="412" y="1048"/>
       <point x="411" y="1059"/>
@@ -67,15 +46,20 @@
       <point x="386" y="1057"/>
       <point x="378" y="1053" type="curve" smooth="yes"/>
       <point x="363" y="1047"/>
-      <point x="135" y="959"/>
-      <point x="83" y="940" type="curve" smooth="yes"/>
-      <point x="70" y="935"/>
-      <point x="65" y="927"/>
-      <point x="65" y="919" type="curve" smooth="yes"/>
-      <point x="65" y="912"/>
-      <point x="69" y="905"/>
-      <point x="76" y="902" type="curve"/>
+      <point x="113" y="958"/>
+      <point x="61" y="939" type="curve"/>
+      <point x="61" y="939"/>
+      <point x="61" y="912"/>
+      <point x="61" y="912" type="curve"/>
       <point x="238" y="805" type="line"/>
+      <point x="238" y="262" type="line" smooth="yes"/>
+      <point x="238" y="151"/>
+      <point x="206" y="94"/>
+      <point x="65" y="39" type="curve" smooth="yes"/>
+      <point x="63" y="38"/>
+      <point x="65" y="0"/>
+      <point x="65" y="0" type="curve" smooth="yes"/>
+      <point x="576" y="0" type="line" smooth="yes"/>
     </contour>
   </outline>
   <lib>
